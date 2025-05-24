@@ -6,7 +6,7 @@ Ce projet montre comment fine-tuner le modèle pré-entraîné **BLIP-VQA-base**
 
 ## 🖼️ Schéma d’architecture
 
-![BLIP-VQA pipeline](./A_diagram_titled_"BLIP_Fine-Tuning_for_VQA_on_VizW.png)
+![BLIP-VQA pipeline](./A_diagram_titled_BLIP_Fine-Tuning_for_VQA_on_VizW.png)
 
 ---
 
