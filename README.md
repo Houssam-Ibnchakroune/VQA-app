@@ -19,7 +19,7 @@ Ce projet montre comment fine-tuner le modèle pré-entraîné **BLIP-VQA-base**
 | `PyTorch`        | Framework de deep learning |
 | `Transformers`   | Chargement du modèle BLIP via 🤗 Hugging Face |
 | `Streamlit`      | Interface web pour tester en ligne |
-| `Google Colab`   | Environnement d’entraînement (12 Go de VRAM) |
+| `Google Colab`   | Environnement d’entraînement  |
 
 ---
 
